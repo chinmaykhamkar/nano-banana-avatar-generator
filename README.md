@@ -2,6 +2,14 @@
 
 Transform your photos into clean, minimalist Notion-style avatars using Google's GenAI API.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/78b6b2db-79ab-43c7-8d59-0577cebf7d38
+
+
+
+
 ## Features
 
 - 🎨 Convert photos to Notion-style black and white avatars
