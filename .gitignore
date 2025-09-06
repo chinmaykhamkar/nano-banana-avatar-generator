@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.pyc
+
+# Environment & API Keys
+.env
+.env.local
+.env.production
+*.env
+env_example.py
+
+# Generated images & uploads
+public/outputs/
+public/outputs/*.png
+public/outputs/*.jpg
+public/outputs/*.jpeg
+public/outputs/*.gif
+public/outputs/*.webp
+uploads/
+
+# Test images
+*.png
+*.jpg
+*.jpeg
+!public/reference-*.png
+!public/reference-image-*.png
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (if added later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.tmp
+*.temp
